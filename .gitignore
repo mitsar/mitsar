@@ -15,3 +15,6 @@
 /vendor/
 /web/bundles/
 .idea
+puphpet/config-custom.yaml
+.vagrant
+/html
